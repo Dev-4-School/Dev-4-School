@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-4-School CHR B E
 - 👀 I’m interested in all whats concerning IT and Software engineering
 - 🌱 I’m currently learning PHP JAVA REACT JS  AND C++
-- 💞️ I’m looking to freelance on small projects
+- 💞️ I’m looking for freelancing opportunities on small projects
 - 📫 
 
 <!---
